@@ -1,0 +1,1 @@
+# obsidian-job-search-template
